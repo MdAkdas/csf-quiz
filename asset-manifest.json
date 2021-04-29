@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/csf-quiz/static/css/main.f6a9915e.chunk.css",
+    "main.js": "/csf-quiz/static/js/main.ca83219a.chunk.js",
+    "main.js.map": "/csf-quiz/static/js/main.ca83219a.chunk.js.map",
+    "runtime-main.js": "/csf-quiz/static/js/runtime-main.20557369.js",
+    "runtime-main.js.map": "/csf-quiz/static/js/runtime-main.20557369.js.map",
+    "static/js/2.d3a9deb5.chunk.js": "/csf-quiz/static/js/2.d3a9deb5.chunk.js",
+    "static/js/2.d3a9deb5.chunk.js.map": "/csf-quiz/static/js/2.d3a9deb5.chunk.js.map",
+    "index.html": "/csf-quiz/index.html",
+    "static/css/main.f6a9915e.chunk.css.map": "/csf-quiz/static/css/main.f6a9915e.chunk.css.map",
+    "static/js/2.d3a9deb5.chunk.js.LICENSE.txt": "/csf-quiz/static/js/2.d3a9deb5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.20557369.js",
+    "static/js/2.d3a9deb5.chunk.js",
+    "static/css/main.f6a9915e.chunk.css",
+    "static/js/main.ca83219a.chunk.js"
+  ]
+}
