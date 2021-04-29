@@ -12,7 +12,7 @@ const App = ()=>{
 		<Router>
 			<Switch>
 				<Route path="/csf-quiz" component={QuizSelect} exact />
-				<Route path="/r/:topic" component={RandomQuiz} exact />
+				<Route path="/csf-quiz/r/:topic" component={RandomQuiz} exact />
 			</Switch>
 		</Router>
 		

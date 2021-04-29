@@ -48,7 +48,7 @@ const Header= ()=>{
 						className={classes.toolbarTitle}
 						>
 
-						<Link className={classes.styleLink}  to="/">
+						<Link className={classes.styleLink}  to="/csf-quiz">
 							CS Fundamentals Quiz
 						</Link>	
 						</Typography>
