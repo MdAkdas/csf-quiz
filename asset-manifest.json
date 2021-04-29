@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/csf-quiz/static/css/main.f6a9915e.chunk.css",
-    "main.js": "/csf-quiz/static/js/main.ca83219a.chunk.js",
-    "main.js.map": "/csf-quiz/static/js/main.ca83219a.chunk.js.map",
+    "main.js": "/csf-quiz/static/js/main.2740ee81.chunk.js",
+    "main.js.map": "/csf-quiz/static/js/main.2740ee81.chunk.js.map",
     "runtime-main.js": "/csf-quiz/static/js/runtime-main.20557369.js",
     "runtime-main.js.map": "/csf-quiz/static/js/runtime-main.20557369.js.map",
     "static/js/2.d3a9deb5.chunk.js": "/csf-quiz/static/js/2.d3a9deb5.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.20557369.js",
     "static/js/2.d3a9deb5.chunk.js",
     "static/css/main.f6a9915e.chunk.css",
-    "static/js/main.ca83219a.chunk.js"
+    "static/js/main.2740ee81.chunk.js"
   ]
 }
