@@ -154,7 +154,7 @@ const QuizSelect=()=>{
 								        fontSize: "15px"
 								    }}
 
-			    				  component={Link} to={"/r/" + q.title}
+			    				  component={Link} to={"/csf-quiz/r/" + q.title}
 			    				  fullWidth
 			    				  variant="contained"
 			    				  color="primary"
