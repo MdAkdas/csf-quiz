@@ -15,6 +15,7 @@ Django and React.
 
 ## Tech/framework used
 <b>Built with</b>
+- Django
 - React
 
 ## Available Scripts
