@@ -13,7 +13,9 @@ Django and React.
 5. Data Structure
 6. Algorithams
 
-
+## Tech/framework used
+<b>Built with</b>
+- React
 
 ## Available Scripts
 
